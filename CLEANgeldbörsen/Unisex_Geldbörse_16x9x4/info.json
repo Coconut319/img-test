@@ -1,0 +1,16 @@
+{
+    "brand": "Louis Wallis",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "16cm",
+        "height": "9cm",
+        "depth": "4cm"
+    },
+    "variants": {
+        "Braun_Cognac": {
+            "stock": 2
+        }
+    }
+}

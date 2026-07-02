@@ -1,0 +1,21 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC2015#",
+    "price": 59.95,
+    "dimensions": {
+        "width": "32cm",
+        "height": "27cm",
+        "depth": "10cm"
+    },
+    "variants": {
+        "White": {
+            "stock": 1
+        },
+        "Gold": {
+            "stock": 1
+        },
+        "Khaki": {
+            "stock": 1
+        }
+    }
+}

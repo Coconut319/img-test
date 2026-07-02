@@ -1,0 +1,21 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC2025#",
+    "price": 59.95,
+    "dimensions": {
+        "width": "31cm",
+        "height": "20cm",
+        "depth": "8cm"
+    },
+    "variants": {
+        "Turkis": {
+            "stock": 2
+        },
+        "Apricot": {
+            "stock": 1
+        },
+        "Offwhite": {
+            "stock": 1
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "brand": "Louis Wallis",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "17cm",
+        "height": "11cm",
+        "depth": "2cm"
+    },
+    "variants": {
+        "T\u00fcrkis_Blau": {
+            "stock": 1
+        }
+    }
+}

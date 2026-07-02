@@ -1,0 +1,17 @@
+{
+    "brand": "Valentino Creations",
+    "price": 59.95,
+    "dimensions": {
+        "width": "21cm",
+        "height": "18cm",
+        "depth": "6cm"
+    },
+    "variants": {
+        "Braun": {
+            "stock": 3
+        },
+        "Khaki": {
+            "stock": 1
+        }
+    }
+}

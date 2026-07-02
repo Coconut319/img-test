@@ -1,0 +1,24 @@
+{
+    "brand": "Valentino Creations",
+    "model": "V853",
+    "price": 59.95,
+    "dimensions": {
+        "width": "18cm",
+        "height": "9cm",
+        "depth": "5cm"
+    },
+    "variants": {
+        "Orange": {
+            "stock": 1
+        },
+        "Pink": {
+            "stock": 2
+        },
+        "Gelb": {
+            "stock": 1
+        },
+        "Schwarz": {
+            "stock": 1
+        }
+    }
+}

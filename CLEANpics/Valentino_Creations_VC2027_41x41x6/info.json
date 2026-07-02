@@ -1,0 +1,18 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC2027#",
+    "price": 59.95,
+    "dimensions": {
+        "width": "41cm",
+        "height": "41cm",
+        "depth": "6cm"
+    },
+    "variants": {
+        "Cognac": {
+            "stock": 1
+        },
+        "Khaki": {
+            "stock": 2
+        }
+    }
+}

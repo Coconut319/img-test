@@ -1,0 +1,16 @@
+{
+    "brand": "Lundholm",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "16cm",
+        "height": "10cm",
+        "depth": "3cm"
+    },
+    "variants": {
+        "Schwarz": {
+            "stock": 1
+        }
+    }
+}

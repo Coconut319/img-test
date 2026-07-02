@@ -1,0 +1,16 @@
+{
+    "brand": "Echtes Leder",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "7.5cm",
+        "height": "9.5cm",
+        "depth": "1cm"
+    },
+    "variants": {
+        "Schwarz": {
+            "stock": 2
+        }
+    }
+}

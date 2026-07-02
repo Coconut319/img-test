@@ -1,0 +1,15 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC2024",
+    "price": 59.95,
+    "dimensions": {
+        "width": "36cm",
+        "height": "30cm",
+        "depth": "1cm"
+    },
+    "variants": {
+        "White": {
+            "stock": 1
+        }
+    }
+}

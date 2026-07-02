@@ -1,0 +1,20 @@
+{
+    "brand": "Valentino Creations",
+    "price": 59.95,
+    "dimensions": {
+        "width": "35cm",
+        "height": "21cm",
+        "depth": "3cm"
+    },
+    "variants": {
+        "Rosa": {
+            "stock": 3
+        },
+        "Beige": {
+            "stock": 1
+        },
+        "Schwarz": {
+            "stock": 1
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC513",
+    "price": 59.95,
+    "dimensions": {
+        "width": "25cm",
+        "height": "26cm",
+        "depth": "12cm"
+    },
+    "variants": {
+        "White": {
+            "stock": 1
+        },
+        "SkyBlue": {
+            "stock": 1
+        }
+    }
+}

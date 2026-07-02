@@ -1,0 +1,16 @@
+{
+    "brand": "Echtes Leder",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "17.5cm",
+        "height": "10cm",
+        "depth": "3cm"
+    },
+    "variants": {
+        "Skyblau": {
+            "stock": 2
+        }
+    }
+}

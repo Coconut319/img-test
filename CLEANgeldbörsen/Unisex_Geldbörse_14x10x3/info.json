@@ -1,0 +1,16 @@
+{
+    "brand": "Louis Wallis",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "14cm",
+        "height": "10cm",
+        "depth": "3cm"
+    },
+    "variants": {
+        "Rot": {
+            "stock": 3
+        }
+    }
+}

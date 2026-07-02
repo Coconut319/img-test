@@ -1,0 +1,25 @@
+{
+    "brand": "Louis Wallis",
+    "price": 35.95,
+    "material": "Kalbsleder",
+    "unisex": true,
+    "dimensions": {
+        "width": "12cm",
+        "height": "10cm",
+        "depth": "2cm"
+    },
+    "variants": {
+        "Schwarz_Grau_Mustang": {
+            "stock": 1
+        },
+        "Braun_Adler": {
+            "stock": 1
+        },
+        "Braun_Motorrad": {
+            "stock": 1
+        },
+        "Braun_LKW": {
+            "stock": 1
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "brand": "Valentino Creations",
+    "model": "VC2018",
+    "price": 59.95,
+    "dimensions": {
+        "width": "30cm",
+        "height": "16cm",
+        "depth": "8cm"
+    },
+    "variants": {
+        "Schwarz": {
+            "stock": 1
+        },
+        "Offwhite": {
+            "stock": 1
+        },
+        "Taupe": {
+            "stock": 1
+        }
+    }
+}
