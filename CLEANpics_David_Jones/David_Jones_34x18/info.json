@@ -1,0 +1,17 @@
+{
+    "brand": "David Jones",
+    "price": 35.95,
+    "unisex": false,
+    "dimensions": {
+        "width": "34cm",
+        "height": "18cm"
+    },
+    "variants": {
+        "Weiss": {
+            "stock": 1
+        },
+        "Pink": {
+            "stock": 1
+        }
+    }
+}

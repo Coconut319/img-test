@@ -1,0 +1,14 @@
+{
+    "brand": "Enrico Coveri",
+    "price": 35.95,
+    "unisex": false,
+    "dimensions": {
+        "width": "26cm",
+        "height": "20cm"
+    },
+    "variants": {
+        "Schwarz": {
+            "stock": 1
+        }
+    }
+}

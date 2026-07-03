@@ -1,0 +1,14 @@
+{
+    "brand": "David Jones",
+    "price": 35.95,
+    "unisex": false,
+    "dimensions": {
+        "width": "28cm",
+        "height": "21cm"
+    },
+    "variants": {
+        "Hellblau": {
+            "stock": 1
+        }
+    }
+}

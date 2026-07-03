@@ -1,0 +1,14 @@
+{
+    "brand": "Enrico Coveri",
+    "price": 35.95,
+    "unisex": false,
+    "dimensions": {
+        "width": "21cm",
+        "height": "17cm"
+    },
+    "variants": {
+        "Hellblau": {
+            "stock": 1
+        }
+    }
+}

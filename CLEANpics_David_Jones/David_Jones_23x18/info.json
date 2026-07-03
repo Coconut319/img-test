@@ -1,0 +1,17 @@
+{
+    "brand": "David Jones",
+    "price": 35.95,
+    "unisex": false,
+    "dimensions": {
+        "width": "23cm",
+        "height": "18cm"
+    },
+    "variants": {
+        "Beige": {
+            "stock": 1
+        },
+        "Hellgrün": {
+            "stock": 1
+        }
+    }
+}
