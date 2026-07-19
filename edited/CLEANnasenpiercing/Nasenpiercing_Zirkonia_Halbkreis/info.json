@@ -1,0 +1,16 @@
+{
+  "brand": "925 Sterling Silber",
+  "price": 9.95,
+  "material": "925 Sterling Silber",
+  "unisex": false,
+  "dimensions": {
+    "width": "0.8cm",
+    "height": "0.8cm",
+    "depth": "0.2cm"
+  },
+  "variants": {
+    "Silber": {
+      "stock": 15
+    }
+  }
+}
