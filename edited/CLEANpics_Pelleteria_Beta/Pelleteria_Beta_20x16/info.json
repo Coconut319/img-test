@@ -1,0 +1,31 @@
+{
+  "brand": "Pelleteria Beta",
+  "price": 59.95,
+  "material": "Textil / Handarbeit",
+  "unisex": false,
+  "dimensions": {
+    "width": "20cm",
+    "height": "16cm",
+    "depth": "8cm"
+  },
+  "variants": {
+    "Braun": {
+      "stock": 1
+    },
+    "Mehrfarbig_Neon": {
+      "stock": 1
+    },
+    "Mehrfarbig_Lila_Pink": {
+      "stock": 1
+    },
+    "Mehrfarbig_Bunt": {
+      "stock": 2
+    },
+    "Weiss": {
+      "stock": 1
+    },
+    "Beige": {
+      "stock": 1
+    }
+  }
+}

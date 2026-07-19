@@ -1,0 +1,16 @@
+{
+  "brand": "No Name",
+  "price": 59.95,
+  "material": "Textil / Handarbeit",
+  "unisex": false,
+  "dimensions": {
+    "width": "30cm",
+    "height": "20cm",
+    "depth": "10cm"
+  },
+  "variants": {
+    "Weiss_Beige": {
+      "stock": 2
+    }
+  }
+}

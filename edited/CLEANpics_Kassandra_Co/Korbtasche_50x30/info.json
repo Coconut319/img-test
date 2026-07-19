@@ -1,0 +1,37 @@
+{
+  "brand": "Kassandra & Co",
+  "price": 39.99,
+  "material": "Stroh / Textil",
+  "unisex": false,
+  "dimensions": {
+    "width": "50cm",
+    "height": "30cm",
+    "depth": "15cm"
+  },
+  "variants": {
+    "Relax_My_Mind": {
+      "stock": 1
+    },
+    "Ethno_Blau_Gruen": {
+      "stock": 1
+    },
+    "Ethno_Beige_Pink": {
+      "stock": 1
+    },
+    "Leopard": {
+      "stock": 1
+    },
+    "Leopard_Schwarz_Weiss": {
+      "stock": 1
+    },
+    "Rosa_Weiss_Pailletten": {
+      "stock": 1
+    },
+    "Silber_Schwarz_Pailletten": {
+      "stock": 1
+    },
+    "Lila_Pailletten": {
+      "stock": 1
+    }
+  }
+}

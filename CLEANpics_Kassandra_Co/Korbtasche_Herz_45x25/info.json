@@ -1,0 +1,16 @@
+{
+  "brand": "Kassandra & Co",
+  "price": 39.99,
+  "material": "Stroh / Textil",
+  "unisex": false,
+  "dimensions": {
+    "width": "45cm",
+    "height": "25cm",
+    "depth": "12cm"
+  },
+  "variants": {
+    "Silber": {
+      "stock": 1
+    }
+  }
+}
